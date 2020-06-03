@@ -4,6 +4,7 @@ class ArrayDemo {
         int[] anArray;
         /////////////Angela como te va//////////////
         ////////hooooooolllllaaaaa////
+        /////corazones//////
 
         // allocates memory for 10 integers
         anArray = new int[10];

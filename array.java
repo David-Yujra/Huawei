@@ -2,6 +2,7 @@ class ArrayDemo {
     public static void main(String[] args) {
         // declares an array of integers
         int[] anArray;
+        /////////////Angela como te va//////////////
 
         // allocates memory for 10 integers
         anArray = new int[10];
